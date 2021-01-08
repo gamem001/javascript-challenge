@@ -14,6 +14,4 @@ Using d3.js, JavaScript and HTML, a table is appended to a webpage and populated
 
   ![filtered_data](images/filtered.png)
 
-  ### Copyright
-  Trilogy Education Services © 2019. All Rights Reserved.
 
